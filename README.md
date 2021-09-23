@@ -23,6 +23,11 @@ Tanzu Kubernetes Release
 k get tkr
 ```
 
+run during update
+```
+k describe tkn -n <namespace> <clustername>
+```
+
 
 
 
