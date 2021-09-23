@@ -10,23 +10,7 @@ You can configure the Tanzu Kubernetes Grid Service with custom certificates for
 
 https://docs.vmware.com/en/VMware-vSphere/7.0/vmware-vsphere-with-tanzu/GUID-376FCCD1-7743-4202-ACCA-56F214B6892F.html
 
-## commands
 
-Tanzu Kubernetes Cluster
-```
-k get tkc -A
-```
-
-
-Tanzu Kubernetes Release
-```
-k get tkr
-```
-
-run during update
-```
-k describe tkn -n <namespace> <clustername>
-```
 
 
 
