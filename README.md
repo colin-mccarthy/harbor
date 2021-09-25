@@ -12,6 +12,14 @@ https://docs.vmware.com/en/VMware-vSphere/7.0/vmware-vsphere-with-tanzu/GUID-376
 
 
 
+```
+brew install helm
+```
+
+
+
+
+
 
 
 
